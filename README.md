@@ -2,7 +2,7 @@
 Applicazione web per indicizzare e ricercare file di testo (.txt) presenti in una directory locale.  
 Utilizza Elasticsearch per un'indicizzazione e una ricerca full-text efficienti, e Streamlit per un'interfaccia utente semplice e interattiva.
 
-## 💻 Prova l'App Online
+## Prova l'App Online
 
 Puoi testare direttamente l'applicazione, cliccando sul seguente link:
 
@@ -75,6 +75,9 @@ docker-compose up -d
 
 ### Ricerca per contenuto
 ![Indice contenuto](immagini/indice_contenuto.jpg)
+
+### Ricerca combinatoria
+![Ricerca combinatoria](immagini/ricerca_combinatoria.jpg)
 
 ### Ricerca avanzata
 ![Ricerca avanzata](immagini/ricerca_avanzata.jpg)

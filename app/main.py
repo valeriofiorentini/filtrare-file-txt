@@ -46,8 +46,6 @@ if st.sidebar.button("Avvia/Aggiorna Indicizzazione", type="primary"):
             else:
                 st.info(f"Indice '{config.INDEX_NAME}' già esistente. Documenti aggiornati/aggiunti.")
 
-            st.success(f"Indicizzazione completata in {result['time']:.2f} secondi.")
-            st.info(f"Documenti indicizzati con successo: {result['indexed_docs']}")
             if result["errors"] > 0:
                 st.warning(f"Si sono verificati {result['errors']} errori.")
         else:

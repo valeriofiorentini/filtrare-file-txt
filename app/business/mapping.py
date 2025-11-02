@@ -8,6 +8,20 @@ def get_mapping():
     return {
         "settings": {
             "analysis": {
+                "tokenizer": {
+                    "ngram_tokenizer": {
+                        "type": "ngram",
+                        "min_gram": 2,
+                        "max_gram": 20,
+                        "token_chars": ["letter", "digit"]
+                    }
+                },
+                "filter": {
+                    "stemmer": {
+                        "type": "stemmer",
+                        "name": "italian"
+                    }
+                },
                 "analyzer": {
                     "filename_analyzer": {
                         "type": "custom",
@@ -23,22 +37,13 @@ def get_mapping():
                         "type": "custom",
                         "tokenizer": "keyword",
                         "filter": ["lowercase"]
+                    },
+                    "ngram_analyzer": {
+                        "type": "custom",
+                        "tokenizer": "ngram_tokenizer",
+                        "filter": ["lowercase", "asciifolding"]
                     }
                 },
-                "filter": {
-                    "stemmer": {
-                        "type": "stemmer",
-                        "name": "italian"
-                    }
-                },
-                "tokenizer": {
-                    "ngram_tokenizer": {
-                        "type": "ngram",
-                        "min_gram": 2,
-                        "max_gram": 20,
-                        "token_chars": ["letter", "digit"]
-                    }
-                }
             }
         },
         "mappings": {
@@ -49,7 +54,7 @@ def get_mapping():
                     "search_analyzer": "search_analyzer",
                     "fields": {
                         "keyword": {"type": "keyword"},
-                        "ngram": {"type": "text", "analyzer": "ngram_tokenizer"}
+                        "ngram": {"type": "text", "analyzer": "ngram_analyzer"}
                     }
                 },
                 "contenuto_file": {
@@ -57,7 +62,6 @@ def get_mapping():
                     "analyzer": "content_analyzer",
                     "search_analyzer": "search_analyzer",
                     "fields": {
-                        "keyword": {"type": "keyword"},
                         "italian": {"type": "text", "analyzer": "italian"},
                         "english": {"type": "text", "analyzer": "english"}
                     }
