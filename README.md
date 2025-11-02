@@ -29,8 +29,14 @@ ccd ..cd cd .cd cdUtilizza Elasticsearch per un'indicizzazione e una ricerca ful
 
 ## Installazione
 
-### Clona il repository
+### Clonare il repository
+0. **salvare repository in locale**
 
+```bash
+
+git clone https://github.com/valeriofiorentini/filtrare-file-txt.git
+cd filtrare-file-txt
+```
 ### Setup Ambiente
 
 1. **Creazione ambiente virtuale**
@@ -48,6 +54,3 @@ uv sync
 docker-compose up -d
 ```
 
-```
-
-```

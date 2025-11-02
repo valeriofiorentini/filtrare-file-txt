@@ -1,6 +1,10 @@
 import sys
 import os
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+sys.path.append(PROJECT_ROOT)
+
 import streamlit as st
 from app.business.operation_elasticsearch import run_indexing, search_documents, check_index_exists, \
     get_elasticsearch_client
