@@ -65,7 +65,7 @@ query_nome = st.text_input(
 )
 query_contenuto = st.text_input(
     "Cerca per Contenuto:",
-    placeholder="es. machine learning",
+    placeholder="developer",
     on_change=reset_page_callback
 )
 

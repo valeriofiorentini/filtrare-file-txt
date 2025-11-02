@@ -120,8 +120,8 @@ def search_documents(es: Elasticsearch, query_nome_file: str, query_contenuto: s
                      selected_sources: List[str] = None, page: int = 1, page_size: int = 10):
     """
     costruisce una query bool elasticsearch per combinare le ricerche su nome file e contenuto.
-     utilizza dei controlli 'should' per dare punteggi più alti a documenti che corrispondono a entrambi i criteri.
-     per la ricerca nel contenuto, supporta ricerche standard e phrase query.
+    utilizza dei controlli 'should' per dare punteggi più alti a documenti che corrispondono a entrambi i criteri.
+    per la ricerca nel contenuto, supporta ricerche standard e phrase query.
 
     :param es: client elasticsearch
     :param query_nome_file: termine di ricerca nel nome
@@ -180,7 +180,12 @@ def search_documents(es: Elasticsearch, query_nome_file: str, query_contenuto: s
 
     es_query = {
         "query": main_query,
-        "highlight": {"fields": highlight_fields, "order": "score", "number_of_fragments": 1},
+        "highlight": {
+            "fields": highlight_fields,
+            "order": "score",
+            "number_of_fragments": 1,
+            "max_analyzed_offset": 1000000
+        },
         "aggs": {"sources": {"terms": {"field": "nome_file.keyword", "size": 20}}},
         "from": (page - 1) * page_size,
         "size": page_size
