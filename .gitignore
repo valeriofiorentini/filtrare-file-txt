@@ -1,0 +1,37 @@
+#python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+*.log
+
+#venv
+.venv/
+venv
+.idea
+
+.env
+*.env
+.env.*
+
+# ---- project ----
+utils/__pycache__/
+dao/__pycache__/
+config/__pycache__/
+models/__pycache__/
+data/
+test_script/.DS_Store
+postgresql-42.7.5.jar
+
+# other
+logs/
+cache/
+tmp/
+*.tmp
+docker-compose.yml
