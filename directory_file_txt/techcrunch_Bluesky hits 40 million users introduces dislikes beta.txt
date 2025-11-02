@@ -1,0 +1,5 @@
+Title: Bluesky hits 40 million users, introduces ‘dislikes’ beta
+
+Summary: As users "dislike" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings.
+
+Link: https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/

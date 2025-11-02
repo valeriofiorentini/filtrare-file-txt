@@ -1,0 +1,5 @@
+Title: Scientists discover a way simulate the Universe on a laptop
+
+Summary: Scientists have developed a groundbreaking tool called Effort.jl that lets them simulate the structure of the universe using just a laptop. The team created a system that dramatically speeds up how researchers study cosmic data, turning what once took days of supercomputer time into just a few hours. This new approach helps scientists explore massive datasets, test models, and fine-tune their understanding of how galaxies form and evolve.
+
+Link: https://www.sciencedaily.com/releases/2025/10/251029100200.htm

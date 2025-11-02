@@ -1,0 +1,5 @@
+Title: AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams
+
+Summary: AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.
+
+Link: https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/

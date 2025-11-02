@@ -1,0 +1,5 @@
+Title: Cursor introduces its coding model alongside multi-agent interface
+
+Summary: The vibe-coding IDE put an emphasis on speed with Composer.
+
+Link: https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/

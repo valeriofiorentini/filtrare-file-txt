@@ -1,0 +1,7 @@
+Title: Qualcomm acquisisce Arduino: la metamorfosi dell’open-hardware nell’era dell’AI
+
+Summary: <div style="margin: 5px 5% 10px 5%;"><img alt="Massimo Banzi" height="295" src="https://www.digitalic.it/wp-content/uploads/2025/10/Massimo-Banzi--1024x295.jpg" title="" width="1024" /></div>
+<div>Qualcomm acquisisce Arduino: la community dei maker entra nell’era dell’AI. Nasce UNO Q, la scheda che unisce open-hardware e intelligenza artificiale.</div>
+<p>L'articolo <a href="https://www.digitalic.it/tech-news/qualcomm-acquisisce-arduino-la-metamorfosi-dellopen-hardware-nellera-dellai" rel="nofollow">Qualcomm acquisisce Arduino: la metamorfosi dell’open-hardware nell’era dell’AI</a> è un contenuto originale di  <a href="https://www.digitalic.it" rel="nofollow">Digitalic</a>.</p>
+
+Link: https://www.digitalic.it/tech-news/qualcomm-acquisisce-arduino-la-metamorfosi-dellopen-hardware-nellera-dellai

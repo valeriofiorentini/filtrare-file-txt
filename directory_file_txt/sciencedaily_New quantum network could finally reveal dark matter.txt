@@ -1,0 +1,5 @@
+Title: New quantum network could finally reveal dark matter
+
+Summary: Tohoku University researchers have found a way to make quantum sensors more sensitive by connecting superconducting qubits in optimized network patterns. These networks amplify faint signals possibly left by dark matter. The approach outperformed traditional methods even under realistic noise. Beyond physics, it could revolutionize radar, MRI, and navigation technologies.
+
+Link: https://www.sciencedaily.com/releases/2025/10/251029002923.htm

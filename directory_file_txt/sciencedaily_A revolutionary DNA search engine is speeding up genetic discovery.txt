@@ -1,0 +1,5 @@
+Title: A revolutionary DNA search engine is speeding up genetic discovery
+
+Summary: ETH Zurich scientists have created “MetaGraph,” a revolutionary DNA search engine that functions like Google for genetic data. By compressing global genomic datasets by a factor of 300, it allows researchers to search trillions of DNA and RNA sequences in seconds instead of downloading massive data files. The tool could transform biomedical research and pandemic response.
+
+Link: https://www.sciencedaily.com/releases/2025/10/251027224917.htm

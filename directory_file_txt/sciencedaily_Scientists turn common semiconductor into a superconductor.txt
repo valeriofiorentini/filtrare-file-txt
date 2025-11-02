@@ -1,0 +1,5 @@
+Title: Scientists turn common semiconductor into a superconductor
+
+Summary: Researchers have made germanium superconducting for the first time, a feat that could transform computing and quantum technologies. Using molecular beam epitaxy to embed gallium atoms precisely, the team stabilized the crystal structure to carry current without resistance. The discovery paves the way for scalable, energy-efficient quantum devices and cryogenic electronics.
+
+Link: https://www.sciencedaily.com/releases/2025/10/251030075105.htm

@@ -1,0 +1,5 @@
+Title: Are room-temperature superconductors finally within reach?
+
+Summary: Penn State scientists have devised a new method to predict superconducting materials that could work at higher temperatures. Their model bridges classical superconductivity theory with quantum mechanics through zentropy theory. This breakthrough could guide the discovery of powerful, resistance-free materials for real-world use and transform energy technology.
+
+Link: https://www.sciencedaily.com/releases/2025/10/251030075132.htm

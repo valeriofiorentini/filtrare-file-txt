@@ -1,0 +1,5 @@
+Title: Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw
+
+Summary: Microsoft’s new Xbox Full Screen Experience (FSE), which adds a console-like navigation experience to Windows PC gaming handhelds, is coming to another family of devices: the MSI Claw. As part of the latest Windows 11 Insider Preview Build, Microsoft is rolling out support for the Xbox FSE in preview to “MSI Claw models” today, the [&#8230;]
+
+Link: https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider

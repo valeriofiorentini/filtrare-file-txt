@@ -1,0 +1,5 @@
+Title: AI restores James Webb telescope’s crystal-clear vision
+
+Summary: Two Sydney PhD students have pulled off a remarkable space science feat from Earth—using AI-driven software to correct image blurring in NASA’s James Webb Space Telescope. Their innovation, called AMIGO, fixed distortions in the telescope’s infrared camera, restoring its ultra-sharp vision without the need for a space mission.
+
+Link: https://www.sciencedaily.com/releases/2025/10/251027023748.htm

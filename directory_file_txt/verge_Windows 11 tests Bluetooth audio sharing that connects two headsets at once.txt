@@ -1,0 +1,5 @@
+Title: Windows 11 tests Bluetooth audio sharing that connects two headsets at once
+
+Summary: Microsoft is bringing shared audio to Windows 11, allowing you to stream audio across two pairs of wireless headphones, speakers, earbuds, or hearing aids. The feature is built using the Bluetooth Low Energy (LE) audio codec, and it’s rolling out in preview to Windows 11 Insiders in the Dev and Beta channels. Shared audio comes [&#8230;]
+
+Link: https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets

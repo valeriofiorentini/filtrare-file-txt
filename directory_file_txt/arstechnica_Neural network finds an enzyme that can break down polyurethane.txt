@@ -1,0 +1,5 @@
+Title: Neural network finds an enzyme that can break down polyurethane
+
+Summary: Given a dozen hours, the enzyme can turn a foam pad into reusable chemicals.
+
+Link: https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/

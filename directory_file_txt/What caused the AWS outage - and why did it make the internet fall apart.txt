@@ -1,0 +1,5 @@
+Title: What caused the AWS outage - and why did it make the internet fall apart?
+
+Summary: The outage at Amazon services has impacted over 1,000 companies and affected millions of internet users.
+
+Link: https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss

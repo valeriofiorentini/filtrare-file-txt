@@ -1,0 +1,7 @@
+Title: GPT-5-Codex: l’AI che programma per ore e trasforma il mestiere dello sviluppatore
+
+Summary: <div style="margin: 5px 5% 10px 5%;"><img alt="GPT-5-Codex" height="578" src="https://www.digitalic.it/wp-content/uploads/2025/09/Screenshot-2025-09-21-alle-12.23.04-1024x578.png" title="" width="1024" /></div>
+<div>OpenAI svela GPT-5-Codex: un agente AI autonomo che sviluppa codice per ore, migliora drasticamente SWE-bench e rivoluziona i workflow di sviluppo. Ecco l'impatto sui team.</div>
+<p>L'articolo <a href="https://www.digitalic.it/intelligenza-artificiale/gpt-5-codex-ai-programmatori" rel="nofollow">GPT-5-Codex: l&#8217;AI che programma per ore e trasforma il mestiere dello sviluppatore</a> è un contenuto originale di  <a href="https://www.digitalic.it" rel="nofollow">Digitalic</a>.</p>
+
+Link: https://www.digitalic.it/intelligenza-artificiale/gpt-5-codex-ai-programmatori

@@ -1,0 +1,7 @@
+Title: Microsoft conferma il bug del Task Manager
+
+Summary: <p><img alt="Windows 11 25H2 bug" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://www.punto-informatico.it/app/uploads/2025/11/Windows-11-25H2-bug.jpg" /></p>
+<p>Microsoft ha confermato il bug che impedisce la chiusura del Task Manager in Windows 11 25H2 e 24H2 (il relativo processo rimane in esecuzione).</p>
+<p>The post <a href="https://www.punto-informatico.it/microsoft-conferma-bug-task-manager/">Microsoft conferma il bug del Task Manager</a> appeared first on <a href="https://www.punto-informatico.it">Punto Informatico</a>.</p>
+
+Link: https://www.punto-informatico.it/microsoft-conferma-bug-task-manager/

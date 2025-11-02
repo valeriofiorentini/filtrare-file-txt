@@ -1,0 +1,5 @@
+Title: Websites disabled in Microsoft global outage come back online
+
+Summary: Microsoft 365 and its Azure cloud computing platform were hit with DNS issues, similar to the recent AWS outage.
+
+Link: https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&at_campaign=rss

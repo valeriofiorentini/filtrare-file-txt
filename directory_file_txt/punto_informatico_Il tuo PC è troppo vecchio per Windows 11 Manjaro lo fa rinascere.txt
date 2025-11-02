@@ -1,0 +1,7 @@
+Title: Il tuo PC è troppo vecchio per Windows 11? Manjaro lo fa rinascere
+
+Summary: <p><img alt="Manjaro" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://www.punto-informatico.it/app/uploads/2025/10/manjaro.jpg" /></p>
+<p>Dopo la fine del supporto a W10, Manjaro emerge come un'alternativa valida: distro Linux snella, gratuita e adatta ai computer meno recenti.</p>
+<p>The post <a href="https://www.punto-informatico.it/manjaro/">Il tuo PC è troppo vecchio per Windows 11? Manjaro lo fa rinascere</a> appeared first on <a href="https://www.punto-informatico.it">Punto Informatico</a>.</p>
+
+Link: https://www.punto-informatico.it/manjaro/

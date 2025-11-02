@@ -1,0 +1,5 @@
+Title: BBC News app
+
+Summary: Top stories, breaking news, live reporting, and follow news topics that match your interests
+
+Link: https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss

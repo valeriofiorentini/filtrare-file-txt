@@ -1,0 +1,7 @@
+Title: Microsoft Edge 142: blocco scareware migliorato
+
+Summary: <p><img alt="Microsoft Edge" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://www.punto-informatico.it/app/uploads/2025/11/Microsoft-Edge.jpg" /></p>
+<p>Microsoft ha migliorato lo scareware blocker in Edge 142 con l'opzione che permette di notificare i siti truffa alla funzionalità Defender SmartScreen.</p>
+<p>The post <a href="https://www.punto-informatico.it/microsoft-edge-142-blocco-scareware-migliorato/">Microsoft Edge 142: blocco scareware migliorato</a> appeared first on <a href="https://www.punto-informatico.it">Punto Informatico</a>.</p>
+
+Link: https://www.punto-informatico.it/microsoft-edge-142-blocco-scareware-migliorato/

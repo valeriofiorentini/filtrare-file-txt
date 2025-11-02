@@ -1,0 +1,5 @@
+Title: Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager
+
+Summary: Bug affects Windows 11 24H2 and 25H2 users using the October update preview.
+
+Link: https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/
